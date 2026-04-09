@@ -1,0 +1,18 @@
+{
+    "id": "flutter",
+    "version": "1.0.0",
+    "name": "Flutter",
+    "description": "A hello world Template",
+    "documentationURL": "https://github.com/devcontainers/template-starter/tree/main/src/hello",
+    "licenseURL": "https://github.com/devcontainers/template-starter/blob/main/LICENSE",
+    "options": {
+        "flutterVersion": {
+            "type": "string",
+            "description": "Flutter version (see https://docs.flutter.dev/install/archive for avaliable versions)",
+            "default": "3.41.6-stable"
+        }
+    },
+    "platforms": [
+        "Any"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Flutter",
+	"build": {
+		"dockerfile": "Dockerfile",
+		"args": {
+      "FLUTTER_VERSION": "${templateOption:flutterVersion}"
+    }
+	},
+}
